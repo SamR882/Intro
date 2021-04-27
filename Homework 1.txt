@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Introducing Sam</title>
+  </head>
+  <body>
+
+    <p>
+    <h1>Hi! I'm Sam</h1>
+      <a href=</a>
+      <br>
+      <span> That's me :)</span>
+    </p>
+
+    <p>
+    <h2> What are my hobbies?</h2>
+    <span>I work night shifts and spend a lot of time doing courses like this one but when I do get some spare time some of my hobbies include:</span>
+    <ul>
+        <li>drawing and painting</li>
+        <li>gardening</li>
+        <li>watching horror films</li>
+    </ul>
+    </p>
+
+    <p>
+    <h2>Contact me</h2>
+    <a href=</a>
+    <a href=</a>
+    <a href=</a>
+    <span>I can also be contacted at chloerichardson135@outlook.com (a different name I know, I have recently changed my name legally but not got rounf to changing my email yet)</span>
+    <
+  </body>
+</html>
